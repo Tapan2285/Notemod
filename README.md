@@ -1,6 +1,7 @@
 # Notemod - Open Source Free Note-Taking App
 
 At **Notemod**, we believe that taking notes should be simple, powerful, and accessible to everyone. Whether you're a student, professional, or creative thinker, Notemod is designed to streamline your note-taking experience with a modern touch.
+https://notemod.vercel.app/
 
 ---
 
